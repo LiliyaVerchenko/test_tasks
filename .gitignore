@@ -1,0 +1,5 @@
+.idea
+venv
+Task1/.pytest_cache
+Task2/.pytest_cache
+Task3/.pytest_cache
